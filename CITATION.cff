@@ -1,0 +1,108 @@
+cff-version: 1.2.0
+title: >-
+  Common MC1R variants and Parkinson disease progression
+message: >-
+  Publication pending. Please cite this repository and the
+  preprint until the peer-reviewed article is published.
+type: software
+authors:
+  - given-names: Jackson G.
+    family-names: Schumacher
+    email: jgschumacher@mgh.harvard.edu
+    affiliation: >-
+      Department of Neurology, Massachusetts General Hospital
+      and Harvard Medical School; ASAP Collaborative Research
+      Network
+    orcid: 'https://orcid.org/0009-0000-4227-4710'
+  - given-names: Xinyuan
+    family-names: Zhang
+    affiliation: >-
+      Channing Division of Network Medicine, Brigham and
+      Women's Hospital and Harvard Medical School
+    orcid: 'https://orcid.org/0000-0002-2974-8392'
+  - given-names: Jian
+    family-names: Wang
+    affiliation: >-
+      ASAP Collaborative Research Network; Department of
+      Biostatistics, The University of Texas MD Anderson
+      Cancer Center
+    orcid: 'https://orcid.org/0000-0001-7104-0673'
+  - given-names: Johannes M.
+    family-names: Dijkstra
+    affiliation: >-
+      Department of Neurology, School of Medicine, Fujita
+      Health University, Toyoake, Japan
+    orcid: 'https://orcid.org/0000-0001-7097-3826'
+  - given-names: Hirohisa
+    family-names: Watanabe
+    affiliation: >-
+      Department of Neurology, School of Medicine, Fujita
+      Health University, Toyoake, Japan
+    orcid: 'https://orcid.org/0000-0001-8553-8536'
+  - given-names: Xiang
+    family-names: Gao
+    affiliation: >-
+      Department of Nutritional Sciences, The Pennsylvania
+      State University
+    orcid: 'https://orcid.org/0000-0003-2617-6509'
+  - given-names: Marianna
+    family-names: Cortese
+    affiliation: >-
+      Departments of Epidemiology and Nutrition, Harvard T.H.
+      Chan School of Public Health
+    orcid: 'https://orcid.org/0000-0002-3665-2006'
+  - given-names: Eric A.
+    family-names: Macklin
+    affiliation: >-
+      Department of Neurology, Massachusetts General Hospital
+      and Harvard Medical School; ASAP Collaborative Research
+      Network
+    orcid: 'https://orcid.org/0000-0003-1618-3502'
+  - given-names: Michael A.
+    family-names: Schwarzschild
+    affiliation: >-
+      Department of Neurology, Massachusetts General Hospital
+      and Harvard Medical School; ASAP Collaborative Research
+      Network
+    orcid: 'https://orcid.org/0000-0001-6019-8280'
+  - given-names: Xiqun
+    family-names: Chen
+    affiliation: >-
+      Department of Neurology, Massachusetts General Hospital
+      and Harvard Medical School; ASAP Collaborative Research
+      Network
+    orcid: 'https://orcid.org/0000-0001-8582-8891'
+identifiers:
+  - type: doi
+    value: 10.64898/2025.12.26.25343003
+    description: medRxiv preprint
+repository-code: 'https://github.com/jacksongsch/mc1r_progression'
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: >-
+    Common MC1R variants and Parkinson disease progression
+  authors:
+    - given-names: Jackson G.
+      family-names: Schumacher
+    - given-names: Xinyuan
+      family-names: Zhang
+    - given-names: Jian
+      family-names: Wang
+    - given-names: Johannes M.
+      family-names: Dijkstra
+    - given-names: Hirohisa
+      family-names: Watanabe
+    - given-names: Xiang
+      family-names: Gao
+    - given-names: Marianna
+      family-names: Cortese
+    - given-names: Eric A.
+      family-names: Macklin
+    - given-names: Michael A.
+      family-names: Schwarzschild
+    - given-names: Xiqun
+      family-names: Chen
+  doi: 10.64898/2025.12.26.25343003
+  year: 2025
+  notes: 'Preprint; peer-reviewed publication pending'

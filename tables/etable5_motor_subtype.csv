@@ -1,0 +1,3 @@
+Subtype,N_noncarrier,N_MC1R,Noncarrier_slope_95CI,MC1R_slope_95CI,Beta_diff_95CI,Pct_diff,P_value
+Tremor-dominant,70,167,"2.09 (1.69, 2.49)","2.49 (2.20, 2.77)","0.40 (-0.06, 0.86)",19.0,0.09
+PIGD,19,34,"1.69 (0.85, 2.54)","2.42 (1.69, 3.16)","0.73 (-0.33, 1.78)",43.0,0.18
