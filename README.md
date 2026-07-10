@@ -1,4 +1,4 @@
-# MC1R_Progression_Code
+# MC1R Progression Code
 Project Title: Prevalent MC1R variants predict accelerated motor decline in Parkinson’s disease
 
 Project Overview: Included in this repository is the R code used to analyze longitudinal clinical data from PD and prodromal PD participants in the Parkinson's Progression Markers Initiative (PPMI) and replication cohorts.
