@@ -1,11 +1,11 @@
 # Common *MC1R* variants and Parkinson disease progression
 
-This repository contains the analysis code, tables, and figures for
-Schumacher et al., "Common *MC1R* variants and Parkinson disease
-progression."
+Schumacher JG, Zhang X, Wang J, Dijkstra JM, Watanabe H, Gao X, Cortese M, Macklin EA, Schwarzschild MA, Chen X.
 
 **Preprint:** [doi:10.64898/2025.12.26.25343003](https://doi.org/10.64898/2025.12.26.25343003)
 
+**Published Article:** 
+Under review
 ---
 
 ## Overview
