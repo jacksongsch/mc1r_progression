@@ -4,7 +4,7 @@ Schumacher JG, Zhang X, Wang J, Dijkstra JM, Watanabe H, Gao X, Cortese M, Mackl
 
 **Preprint:** [doi:10.64898/2025.12.26.25343003](https://doi.org/10.64898/2025.12.26.25343003)
 
-**Published Article:** Under review
+**Published article:** Under review
 
 ---
 
