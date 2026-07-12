@@ -92,7 +92,7 @@ mc1r_progression/
 ├── .gitignore
 │
 ├── analysis/
-│   ├── mc1r_progression_analysis.Rmd   PPMI cohort (primary + all secondary analyses)
+│   ├── mc1r_progression_analysis.Rmd   PPMI cohort
 │   └── mc1r_progression_validation.Rmd Pooled replication cohort (SURE-PD2/3, STEADY-PD III)
 │
 ├── figures/
