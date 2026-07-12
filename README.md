@@ -48,21 +48,21 @@ PD.
   increased risk of phenoconversion to PD (sHR=4.75, 95% CI 1.48–15.27,
   p=0.009) compared to non-carriers (n=19).
 
-![PPMI motor decline](figures/fig1_ppmi_motor_decline.png)
+![PPMI motor decline](figures/fig1a_ppmi_motor_decline.png)
 
 *Figure 1A. Change in MDS-UPDRS III (OFF-state) in the PPMI sporadic
 cohort. MC1R LoF carriers (n=231) decline 30% faster than non-carriers
 (n=152; β=0.57, p=0.006). Adjusted for age at onset, sex, race, LEDD,
 and baseline score.*
 
-![Replication motor decline](figures/fig2_replication_motor_decline.png)
+![Replication motor decline](figures/fig1b_replication_motor_decline.png)
 
 *Figure 1B. Pooled replication cohort (SURE-PD phase 2 + SURE-PD3 +
 STEADY-PD III). MC1R LoF carriers (n=346) decline 50% faster than
 non-carriers (n=153; β=1.37, p=0.01). Visits censored at levodopa or
 dopamine agonist initiation.*
 
-![Phenoconversion](figures/fig3_phenoconversion.png)
+![Phenoconversion](figures/fig2_phenoconversion.png)
 
 *Figure 2. Cumulative incidence of phenoconversion from prodromal to
 clinically diagnosed PD. MC1R LoF carriers show over fourfold increased
