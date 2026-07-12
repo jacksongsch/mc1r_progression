@@ -13,8 +13,8 @@ Schumacher JG, Zhang X, Wang J, Dijkstra JM, Watanabe H, Gao X, Cortese M, Mackl
 Melanocortin 1 receptor (*MC1R*) loss-of-function (LoF) variants impair
 eumelanin synthesis and reduce antioxidant capacity. *MC1R* is expressed
 in dopaminergic neurons of the substantia nigra, where it may influence
-neuronal vulnerability. Phenotypes associated with *MC1R* LoF — lighter
-skin, red hair, and melanoma — have each been linked to increased PD
+neuronal vulnerability. Phenotypes associated with *MC1R* LoF, lighter
+skin, red hair, and melanoma, have each been linked to increased PD
 risk, though associations between individual variants and PD risk remain
 inconsistent. Approximately 60–70% of individuals of European descent
 carry at least one *MC1R* LoF variant.
