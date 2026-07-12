@@ -96,9 +96,9 @@ mc1r_progression/
 │   └── mc1r_progression_validation.Rmd Pooled replication cohort (SURE-PD2/3, STEADY-PD III)
 │
 ├── figures/
-│   ├── fig1_ppmi_motor_decline.png          PPMI motor trajectories (Figure 1A)
-│   ├── fig2_replication_motor_decline.png   Replication motor trajectories (Figure 1B)
-│   ├── fig3_phenoconversion.png             Phenoconversion (Figure 2)
+│   ├── fig1a_ppmi_motor_decline.png          PPMI motor trajectories (Figure 1A)
+│   ├── fig1b_replication_motor_decline.png   Replication motor trajectories (Figure 1B)
+│   ├── fig2_phenoconversion.png             Phenoconversion (Figure 2)
 │   ├── efig1_pca_ancestry.png               PPMI PCA (eFigure 1)
 │   ├── efig2a_slope_density_ppmi.png        Slope distributions, PPMI (eFigure 2A)
 │   ├── efig2b_slope_vs_treatment_ppmi.png   Slope vs treatment, PPMI (eFigure 2B)
@@ -107,7 +107,7 @@ mc1r_progression/
 │
 ├── tables/
 │   ├── table1_demographics.csv                    Demographics (sporadic cohort)
-│   ├── table2_motor_decline_subscores.csv         Motor decline with OFF/ON subscores
+│   ├── table2_motor_decline_subscores.csv         Motor decline with OFF/ON and subscores
 │   ├── table3_motor_decline_stratified.csv        Motor decline by zygosity, penetrance, variant
 │   ├── etable1_monogenic_demographics.csv         Monogenic cohort demographics
 │   ├── etable2_carrier_frequency.csv              Carrier frequency across cohorts
